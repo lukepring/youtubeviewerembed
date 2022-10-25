@@ -1,2 +1,2 @@
 # YouTube Viewer (Embed)
-A way to bypass school YouTube restrictions by creating and viewing an embed from a video URL.
+A way to bypass YouTube restrictions by creating and viewing an embed from a video URL.
